@@ -26,6 +26,7 @@
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- 
 <div align="center">
   <h1 align="center">
   <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="[https://img001.prntscr.com/file/img001/J_L6Nzc1Q_W9gllIVuJ2Og.png](https://pt.quizur.com/_image?href=https%3A%2F%2Fimg.quizur.com%2Ff%2Fimg638e53222236a0.55746326.jpg%3FlastEdited%3D1670281302&w=600&h=600&f=webp)"  />
@@ -288,3 +289,4 @@
     /></a>
   </div>
 </div>
+-->
